@@ -12,7 +12,7 @@ class stone{
         this.y=y;
         this.w=w;
         this.h=h;
-        this.image=loadImage("sprites/stone.png");
+        this.image=loadImage("stone.png");
         World.add(world, this.body);
     }
     display(){
