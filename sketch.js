@@ -14,8 +14,8 @@ var rope;
 
 function preload()
 {
-	treepic=loadImage("sprite/tree.png");
-	boypic=loadImage("sprite/boy.png")	;
+	treepic=loadImage("tree.png");
+	boypic=loadImage("boy.png")	;
 }
 
 function setup() {
